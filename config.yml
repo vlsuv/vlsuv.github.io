@@ -1,0 +1,9 @@
+baseURL: "https://vlsuv.github.io/"
+title: vlsuv.github.io
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: false
+buildDrafts: false
+buildFuture: false
+buildExpired: false
