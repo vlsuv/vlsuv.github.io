@@ -5,22 +5,85 @@
     <link>https://vlsuv.github.io/tags/</link>
     <description>Recent content in Tags on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 10:23:44 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MVP</title>
-      <link>https://vlsuv.github.io/tags/mvp/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>CocoaPods</title>
+      <link>https://vlsuv.github.io/tags/cocoapods/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
       
-      <guid>https://vlsuv.github.io/tags/mvp/</guid>
+      <guid>https://vlsuv.github.io/tags/cocoapods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreAnimation</title>
+      <link>https://vlsuv.github.io/tags/coreanimation/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/coreanimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreLocation</title>
+      <link>https://vlsuv.github.io/tags/corelocation/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/corelocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>https://vlsuv.github.io/tags/mvc/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realm</title>
+      <link>https://vlsuv.github.io/tags/realm/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/realm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UIKit</title>
       <link>https://vlsuv.github.io/tags/uikit/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/uikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UnitTests</title>
+      <link>https://vlsuv.github.io/tags/unittests/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/unittests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URLSession</title>
+      <link>https://vlsuv.github.io/tags/urlsession/</link>
+      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/urlsession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVP</title>
+      <link>https://vlsuv.github.io/tags/mvp/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvp/</guid>
       <description></description>
     </item>
     
