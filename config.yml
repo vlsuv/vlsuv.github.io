@@ -3,7 +3,91 @@ title: vlsuv.github.io
 paginate: 5
 theme: PaperMod
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production 
+  title: Vladislav Suchkov
+  description: "Vladislav Suchkov"
+  keywords: [Portfolio]
+  author: Me
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: Vladislav Suchkov
+    subtitle: "iOS Developer"
+    #imageUrl: "<img location>"
+    #imageWidth: 120
+    #imageHeight: 120
+    #imageTitle: my image
+    buttons:
+      - name: Portfolio
+        url: portfolio
+      - name: About Me
+        url: about
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/vlsuv"
+    - name: linkedin
+      url: "https://linkedin.com/in/vlad-suchkov"
+    - name: telegram
+      url: "https://t.me/vlsuv"
+    - name: email
+      url: "mailto:vsuchkov96@gmail.com"
+
+menu:
+  main:
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 30
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: true
