@@ -1,7 +1,7 @@
 ---
 title: "pomodoro"
 date: 2020-09-15T11:30:03+00:00
-tags: ["MVP", "UserNotifications", "UserDefaults", "UIKit"]
+tags: ["MVP", "UserNotifications", "UserDefaults", "UIKit", "CoreAnimation"]
 showToc: true
 TocOpen: true
 draft: false
@@ -54,8 +54,3 @@ editPost:
 
 ## Source code
 The source code for this app can be found at [GitHub](https://github.com/vlsuv/pomodoro).
-
-
-
-
-
