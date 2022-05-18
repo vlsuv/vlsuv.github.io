@@ -4,6 +4,43 @@
     <title>Tags on vlsuv.github.io</title>
     <link>https://vlsuv.github.io/tags/</link>
     <description>Recent content in Tags on vlsuv.github.io</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MVP</title>
+      <link>https://vlsuv.github.io/tags/mvp/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIKit</title>
+      <link>https://vlsuv.github.io/tags/uikit/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/uikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserDefaults</title>
+      <link>https://vlsuv.github.io/tags/userdefaults/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/userdefaults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserNotifications</title>
+      <link>https://vlsuv.github.io/tags/usernotifications/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/usernotifications/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
