@@ -7,29 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 18 May 2022 15:14:55 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AVFoundation</title>
-      <link>https://vlsuv.github.io/tags/avfoundation/</link>
+      <title>CoreAnimation</title>
+      <link>https://vlsuv.github.io/tags/coreanimation/</link>
       <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
       
-      <guid>https://vlsuv.github.io/tags/avfoundation/</guid>
+      <guid>https://vlsuv.github.io/tags/coreanimation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CoreData</title>
-      <link>https://vlsuv.github.io/tags/coredata/</link>
+      <title>MVP</title>
+      <link>https://vlsuv.github.io/tags/mvp/</link>
       <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
       
-      <guid>https://vlsuv.github.io/tags/coredata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MVC</title>
-      <link>https://vlsuv.github.io/tags/mvc/</link>
-      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/mvc/</guid>
+      <guid>https://vlsuv.github.io/tags/mvp/</guid>
       <description></description>
     </item>
     
@@ -63,34 +54,34 @@
     <item>
       <title>CocoaPods</title>
       <link>https://vlsuv.github.io/tags/cocoapods/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/cocoapods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CoreAnimation</title>
-      <link>https://vlsuv.github.io/tags/coreanimation/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/coreanimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CoreLocation</title>
       <link>https://vlsuv.github.io/tags/corelocation/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/corelocation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>MVC</title>
+      <link>https://vlsuv.github.io/tags/mvc/</link>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Realm</title>
       <link>https://vlsuv.github.io/tags/realm/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/realm/</guid>
       <description></description>
@@ -99,7 +90,7 @@
     <item>
       <title>UnitTests</title>
       <link>https://vlsuv.github.io/tags/unittests/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/unittests/</guid>
       <description></description>
@@ -108,18 +99,27 @@
     <item>
       <title>URLSession</title>
       <link>https://vlsuv.github.io/tags/urlsession/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/urlsession/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MVP</title>
-      <link>https://vlsuv.github.io/tags/mvp/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>AVFoundation</title>
+      <link>https://vlsuv.github.io/tags/avfoundation/</link>
+      <pubDate>Wed, 18 May 2022 10:14:55 +0400</pubDate>
       
-      <guid>https://vlsuv.github.io/tags/mvp/</guid>
+      <guid>https://vlsuv.github.io/tags/avfoundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreData</title>
+      <link>https://vlsuv.github.io/tags/coredata/</link>
+      <pubDate>Wed, 18 May 2022 10:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/coredata/</guid>
       <description></description>
     </item>
     

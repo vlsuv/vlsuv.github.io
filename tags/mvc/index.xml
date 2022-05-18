@@ -5,23 +5,23 @@
     <link>https://vlsuv.github.io/tags/mvc/</link>
     <description>Recent content in MVC on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 15:14:55 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>alarmv</title>
-      <link>https://vlsuv.github.io/portfolio/alarmv/</link>
-      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/portfolio/alarmv/</guid>
-      <description>Simple alarm application for ios. The alarm works like a notification using the UserNotifications.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 18 May 2022 12:00:55 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/mvc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CWeather</title>
       <link>https://vlsuv.github.io/portfolio/cweather/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 12:00:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/portfolio/cweather/</guid>
       <description>A weather app created using openweathermap API</description>
+    </item>
+    
+    <item>
+      <title>alarmv</title>
+      <link>https://vlsuv.github.io/portfolio/alarmv/</link>
+      <pubDate>Wed, 18 May 2022 10:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/alarmv/</guid>
+      <description>Simple alarm application for ios. The alarm works like a notification using the UserNotifications.</description>
     </item>
     
   </channel>

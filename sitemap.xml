@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vlsuv.github.io/portfolio/alarmv/</loc>
+    <loc>https://vlsuv.github.io/tags/coreanimation/</loc>
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/avfoundation/</loc>
+    <loc>https://vlsuv.github.io/tags/mvp/</loc>
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/coredata/</loc>
-    <lastmod>2022-05-18T15:14:55+04:00</lastmod>
-  </url><url>
-    <loc>https://vlsuv.github.io/tags/mvc/</loc>
+    <loc>https://vlsuv.github.io/portfolio/pomodoro/</loc>
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/portfolio/</loc>
@@ -33,31 +30,34 @@
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/cocoapods/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
-  </url><url>
-    <loc>https://vlsuv.github.io/tags/coreanimation/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/corelocation/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/portfolio/cweather/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/mvc/</loc>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/realm/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/unittests/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/urlsession/</loc>
-    <lastmod>2022-05-17T10:23:44+04:00</lastmod>
+    <lastmod>2022-05-18T12:00:55+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/mvp/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://vlsuv.github.io/portfolio/alarmv/</loc>
+    <lastmod>2022-05-18T10:14:55+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/portfolio/pomodoro/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://vlsuv.github.io/tags/avfoundation/</loc>
+    <lastmod>2022-05-18T10:14:55+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/coredata/</loc>
+    <lastmod>2022-05-18T10:14:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/about/</loc>
   </url><url>
