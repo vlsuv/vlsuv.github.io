@@ -5,13 +5,76 @@
     <link>https://vlsuv.github.io/tags/</link>
     <description>Recent content in Tags on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 17:06:09 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 17:38:32 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alamofire</title>
+      <link>https://vlsuv.github.io/tags/alamofire/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/alamofire/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CocoaPods</title>
       <link>https://vlsuv.github.io/tags/cocoapods/</link>
-      <pubDate>Wed, 18 May 2022 17:06:09 +0400</pubDate>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/cocoapods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVVM</title>
+      <link>https://vlsuv.github.io/tags/mvvm/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RxCocoa</title>
+      <link>https://vlsuv.github.io/tags/rxcocoa/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/rxcocoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RxSwift</title>
+      <link>https://vlsuv.github.io/tags/rxswift/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/rxswift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SafariServices</title>
+      <link>https://vlsuv.github.io/tags/safariservices/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/safariservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIKit</title>
+      <link>https://vlsuv.github.io/tags/uikit/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/uikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserDefaults</title>
+      <link>https://vlsuv.github.io/tags/userdefaults/</link>
+      <pubDate>Wed, 18 May 2022 17:38:32 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/userdefaults/</guid>
       <description></description>
     </item>
     
@@ -34,15 +97,6 @@
     </item>
     
     <item>
-      <title>UIKit</title>
-      <link>https://vlsuv.github.io/tags/uikit/</link>
-      <pubDate>Wed, 18 May 2022 17:06:09 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/uikit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UserNotifications</title>
       <link>https://vlsuv.github.io/tags/usernotifications/</link>
       <pubDate>Wed, 18 May 2022 17:06:09 +0400</pubDate>
@@ -57,15 +111,6 @@
       <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/coreanimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UserDefaults</title>
-      <link>https://vlsuv.github.io/tags/userdefaults/</link>
-      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/userdefaults/</guid>
       <description></description>
     </item>
     

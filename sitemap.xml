@@ -2,40 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vlsuv.github.io/tags/cocoapods/</loc>
-    <lastmod>2022-05-18T17:06:09+04:00</lastmod>
+    <loc>https://vlsuv.github.io/tags/alamofire/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/mvp/</loc>
-    <lastmod>2022-05-18T17:06:09+04:00</lastmod>
+    <loc>https://vlsuv.github.io/tags/cocoapods/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/portfolio/hn/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/mvvm/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/portfolio/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/rxcocoa/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/rxswift/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/safariservices/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/uikit/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/userdefaults/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/</loc>
+    <lastmod>2022-05-18T17:38:32+04:00</lastmod>
+  </url><url>
+    <loc>https://vlsuv.github.io/tags/mvp/</loc>
     <lastmod>2022-05-18T17:06:09+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/realm/</loc>
     <lastmod>2022-05-18T17:06:09+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/</loc>
-    <lastmod>2022-05-18T17:06:09+04:00</lastmod>
-  </url><url>
     <loc>https://vlsuv.github.io/portfolio/to-do-list/</loc>
     <lastmod>2022-05-18T17:06:09+04:00</lastmod>
   </url><url>
-    <loc>https://vlsuv.github.io/tags/uikit/</loc>
-    <lastmod>2022-05-18T17:06:09+04:00</lastmod>
-  </url><url>
     <loc>https://vlsuv.github.io/tags/usernotifications/</loc>
-    <lastmod>2022-05-18T17:06:09+04:00</lastmod>
-  </url><url>
-    <loc>https://vlsuv.github.io/</loc>
     <lastmod>2022-05-18T17:06:09+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/coreanimation/</loc>
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/portfolio/pomodoro/</loc>
-    <lastmod>2022-05-18T15:14:55+04:00</lastmod>
-  </url><url>
-    <loc>https://vlsuv.github.io/tags/userdefaults/</loc>
     <lastmod>2022-05-18T15:14:55+04:00</lastmod>
   </url><url>
     <loc>https://vlsuv.github.io/tags/corelocation/</loc>
