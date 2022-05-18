@@ -5,7 +5,16 @@
     <link>https://vlsuv.github.io/tags/userdefaults/</link>
     <description>Recent content in UserDefaults on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/userdefaults/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 15:14:55 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/userdefaults/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alarmv</title>
+      <link>https://vlsuv.github.io/portfolio/alarmv/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/alarmv/</guid>
+      <description>Simple alarm application for ios. The alarm works like a notification using the UserNotifications.</description>
+    </item>
+    
     <item>
       <title>pomodoro</title>
       <link>https://vlsuv.github.io/portfolio/pomodoro/</link>

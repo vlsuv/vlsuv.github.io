@@ -5,7 +5,61 @@
     <link>https://vlsuv.github.io/tags/</link>
     <description>Recent content in Tags on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 10:23:44 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 15:14:55 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AVFoundation</title>
+      <link>https://vlsuv.github.io/tags/avfoundation/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/avfoundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreData</title>
+      <link>https://vlsuv.github.io/tags/coredata/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/coredata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>https://vlsuv.github.io/tags/mvc/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIKit</title>
+      <link>https://vlsuv.github.io/tags/uikit/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/uikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserDefaults</title>
+      <link>https://vlsuv.github.io/tags/userdefaults/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/userdefaults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UserNotifications</title>
+      <link>https://vlsuv.github.io/tags/usernotifications/</link>
+      <pubDate>Wed, 18 May 2022 15:14:55 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/tags/usernotifications/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CocoaPods</title>
       <link>https://vlsuv.github.io/tags/cocoapods/</link>
@@ -34,29 +88,11 @@
     </item>
     
     <item>
-      <title>MVC</title>
-      <link>https://vlsuv.github.io/tags/mvc/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/mvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Realm</title>
       <link>https://vlsuv.github.io/tags/realm/</link>
       <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/tags/realm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UIKit</title>
-      <link>https://vlsuv.github.io/tags/uikit/</link>
-      <pubDate>Tue, 17 May 2022 10:23:44 +0400</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/uikit/</guid>
       <description></description>
     </item>
     
@@ -84,24 +120,6 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://vlsuv.github.io/tags/mvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UserDefaults</title>
-      <link>https://vlsuv.github.io/tags/userdefaults/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/userdefaults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UserNotifications</title>
-      <link>https://vlsuv.github.io/tags/usernotifications/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://vlsuv.github.io/tags/usernotifications/</guid>
       <description></description>
     </item>
     
