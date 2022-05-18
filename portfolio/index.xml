@@ -51,5 +51,14 @@
       <description>Simple alarm application for ios. The alarm works like a notification using the UserNotifications.</description>
     </item>
     
+    <item>
+      <title>Chat</title>
+      <link>https://vlsuv.github.io/portfolio/chat/</link>
+      <pubDate>Tue, 17 May 2022 17:57:43 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/chat/</guid>
+      <description>Messenger app using firebase services</description>
+    </item>
+    
   </channel>
 </rss>
