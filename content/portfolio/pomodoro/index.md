@@ -52,7 +52,8 @@ editPost:
 |---|---|---|---|
 | ![settings-light](Screenshots/settings_light.png) | ![time-pick_light.png](Screenshots/time_pick_light.png) | ![notification](Screenshots/notification.png) |  |
 
-
+## Source code
+The source code for this app can be found at [GitHub](https://github.com/vlsuv/pomodoro).
 
 
 
