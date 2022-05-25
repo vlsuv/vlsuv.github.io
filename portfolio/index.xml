@@ -5,7 +5,34 @@
     <link>https://vlsuv.github.io/portfolio/</link>
     <description>Recent content in Portfolios on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 May 2022 17:38:32 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 14:46:20 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tixxie</title>
+      <link>https://vlsuv.github.io/portfolio/tixxie/</link>
+      <pubDate>Tue, 24 May 2022 14:46:20 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/tixxie/</guid>
+      <description>Main features  Adding timer with icon, title, description, color Setting, changing password Showing recomendations in stories Adding notes with title, description, image  My contribution  All application  Screenshots                   Source  App Store  </description>
+    </item>
+    
+    <item>
+      <title>Leastly</title>
+      <link>https://vlsuv.github.io/portfolio/leastly/</link>
+      <pubDate>Tue, 24 May 2022 14:00:46 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/leastly/</guid>
+      <description>Financial manager, goals, task scheduler, shopping list.</description>
+    </item>
+    
+    <item>
+      <title>Wixsy</title>
+      <link>https://vlsuv.github.io/portfolio/wixsy/</link>
+      <pubDate>Thu, 19 May 2022 18:07:29 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/wixsy/</guid>
+      <description>Daily planner, task list, goal tracker, calendar</description>
+    </item>
+    
     <item>
       <title>Hacker News App</title>
       <link>https://vlsuv.github.io/portfolio/hn/</link>
