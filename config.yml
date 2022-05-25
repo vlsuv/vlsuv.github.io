@@ -3,7 +3,7 @@ title: vlsuv.github.io
 paginate: 5
 theme: PaperMod
 
-googleAnalytics: G-9PKMCK66JZ
+googleAnalytics: G-0B3Q6YGGGW
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -84,7 +84,7 @@ privacy:
   disqus:
     disable: true
   googleAnalytics:
-    disable: true
+    disable: false
   instagram:
     disable: true
   twitter:
