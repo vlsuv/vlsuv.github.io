@@ -5,14 +5,42 @@
     <link>https://vlsuv.github.io/portfolio/</link>
     <description>Recent content in Portfolios on vlsuv.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 24 May 2022 14:46:20 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 13:55:51 +0400</lastBuildDate><atom:link href="https://vlsuv.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefly-iii for iOS</title>
+      <link>https://vlsuv.github.io/portfolio/firefly-ios/</link>
+      <pubDate>Fri, 27 May 2022 13:55:51 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/firefly-ios/</guid>
+      <description>iOS client for a personal finance manager firefly-iii</description>
+    </item>
+    
+    <item>
+      <title>Vitacard</title>
+      <link>https://vlsuv.github.io/portfolio/vitacard/</link>
+      <pubDate>Fri, 27 May 2022 12:10:42 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/vitacard/</guid>
+      <description>The application allows you to make an independent appointment with a doctor, both an adult and a child, see the history of visits.
+Vita Card allows you to save time and eliminate the need to visit clinics to make an appointment. Besides there is an opportunity to get referential information about all medical organizations in the region, their contacts and addresses, and also you can find out by your residential address to which clinics you concern.</description>
+    </item>
+    
+    <item>
+      <title>Nets</title>
+      <link>https://vlsuv.github.io/portfolio/nets/</link>
+      <pubDate>Wed, 25 May 2022 17:33:17 +0400</pubDate>
+      
+      <guid>https://vlsuv.github.io/portfolio/nets/</guid>
+      <description>An application for tracking indicators by line of business and processes</description>
+    </item>
+    
     <item>
       <title>Tixxie</title>
       <link>https://vlsuv.github.io/portfolio/tixxie/</link>
       <pubDate>Tue, 24 May 2022 14:46:20 +0400</pubDate>
       
       <guid>https://vlsuv.github.io/portfolio/tixxie/</guid>
-      <description>Main features  Adding timer with icon, title, description, color Setting, changing password Showing recomendations in stories Adding notes with title, description, image  My contribution  All application  Screenshots                   Source  App Store  </description>
+      <description>Main features  Adding timer with icon, title, description, color Setting and changing password Showing recommendations in stories Adding notes with title, description, image  My contribution  All application  Screenshots                   Source  App Store  </description>
     </item>
     
     <item>
