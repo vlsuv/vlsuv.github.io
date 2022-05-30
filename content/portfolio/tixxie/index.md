@@ -26,8 +26,8 @@ editPost:
 ---
 ## Main features
 - Adding timer with icon, title, description, color
-- Setting, changing password
-- Showing recomendations in stories
+- Setting  and changing password
+- Showing recommendations in stories
 - Adding notes with title, description, image
 
 ## My contribution

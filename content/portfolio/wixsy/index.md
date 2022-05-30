@@ -26,7 +26,7 @@ editPost:
 ---
 ## My contribution
 - User Interface
-- Fetching weather's info by current geo
+- Fetching weather's info by the current geo
 - Calendar with marks
 - To-do list with categories, dates, priority, description, subtasks
 - Planner with categories, dates, description, pictures, steps

@@ -25,9 +25,9 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 ## Main features
-- Fetching weather's info by current geo
+- Fetching weather's info by the current geo
 - Adding expenses by category
-- Planning goals with calendar
+- Planning goals with a calendar
 - Defining goals by categories
 
 ## My contribution

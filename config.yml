@@ -75,10 +75,10 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: Tags
-      name: Tags
-      url: /tags/
-      weight: 30
+    #- identifier: Tags
+      #name: Tags
+      #url: /tags/
+      #weight: 30
 
 privacy:
   disqus:
